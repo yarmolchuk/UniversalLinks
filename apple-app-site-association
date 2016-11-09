@@ -1,0 +1,11 @@
+{
+ 	"applinks": {
+    	"apps": [],
+    	"details": [
+	    	{
+	      		"appID": "9532C74ZP2.com.razeware.UniveralLinksTutorial",
+	      		"paths": ["*"]
+	    	}
+    	]
+	}
+}
